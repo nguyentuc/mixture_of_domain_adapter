@@ -1,9 +1,9 @@
-# Due to server maintenance, we can not upload the project's source at this time. We will try our best to upload it as soon as possible. However, we will be happy to help if anyone has any questions regarding our project.
-
 # Generalizability of Mixture of Domain-Specific Adapters from the Lens of Signed Weight Directions and its Application to Effective Model Pruning
 
 We aim to provide comprehensive analysis to elucidate the generalizability of domain-specific adapter mixtures in in-domain evaluation. 
 We also provide investigations into the inner workings of the mixture of domain-specific adapters by analyzing their weight signs, yielding critical analysis on the negative correlation between their fraction of weight sign difference and their mixtures’ generalizability. 
+
+Note: Due to server maintenance, we can not upload the project's source at this time. We will try our best to upload it as soon as possible. However, we will be happy to help if anyone has any questions regarding our project.
 
 ### Citation
 
